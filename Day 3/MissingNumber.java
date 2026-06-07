@@ -1,3 +1,6 @@
+// LeetCode 268 - Missing Number
+// https://leetcode.com/problems/missing-number/description
+
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;

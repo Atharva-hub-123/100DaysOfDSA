@@ -1,3 +1,6 @@
+// LeetCode 73 - Set Matrix Zeroes
+// https://leetcode.com/problems/set-matrix-zeroes/description/
+
 class Solution {
     public void setZeroes(int[][] matrix) {
         int col0 = 1;
