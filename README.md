@@ -28,6 +28,7 @@ The main goals of this challenge are:
 Problems are mainly solved from:
 
 - LeetCode
+- Codeforces
 - Coding Platforms
 - Contest Problems
 
