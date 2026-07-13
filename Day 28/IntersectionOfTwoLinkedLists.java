@@ -1,4 +1,4 @@
-// Codeforces 160 - Intersection of Two Linked Lists
+// LeetCode 160 - Intersection of Two Linked Lists
 // https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 
 /** Definition for singly-linked list. **/
