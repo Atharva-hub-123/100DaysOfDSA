@@ -10,9 +10,9 @@ public class Main {
         int n = sc.nextInt();
         int m = sc.nextInt();
 
-        int low = (n + 1) / 2;      // ceil(n/2)
+        int low = (n + 1) / 2;      
 
-        int ans = ((low + m - 1) / m) * m; // smallest multiple of m >= low
+        int ans = ((low + m - 1) / m) * m; 
 
         if (ans <= n){
             System.out.println(ans);
