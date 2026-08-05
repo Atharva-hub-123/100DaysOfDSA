@@ -1,6 +1,8 @@
 // LeetCode 3731 - Find Missing Elements
 // https://leetcode.com/problems/find-missing-elements/description/
 
+import java.util.*;
+
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> answer = new ArrayList<>();
